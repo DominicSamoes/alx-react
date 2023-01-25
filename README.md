@@ -7,4 +7,4 @@
 ---
 
 ### Author
-* **Dominic Samo** - (https://www.linkedin.com/in/dominic-samo-754014187/)
+* **Dominic Samo** - (https://www.linkedin.com/in/dominic-samo-754014187/)
