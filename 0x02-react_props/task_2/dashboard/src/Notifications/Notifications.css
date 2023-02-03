@@ -1,16 +1,11 @@
 .Notifications {
-    padding: 2rem;
-    border: 2px dashed #e2374c;
+  border: thin dotted #e0344a;
+  padding: 16px;
+}
+[data-notification-type='default'] {
+  color: blue;
 }
 
-li[data="default"] {
-    color: blue;
-}
-
-li[data="urgent"] {
-    color: #e2374c;
-}
-
-.Notifications button {
-    float: right;
+[data-notification-type='urgent'] {
+  color: red;
 }

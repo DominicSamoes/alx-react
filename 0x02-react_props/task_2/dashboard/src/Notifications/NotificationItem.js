@@ -1,15 +1,15 @@
 import React from 'react';
-import './Notifications.css';
 
-function NotificationItems(props) {
-  if (props.html) {
-    return (
-      <li data-notification-type={props.type} dangerouslySetInnerHTML={{ __html: props.html }}></li>
-    );
-  }
-  return (
-    <li data-notification-type={props.type}>{props.value}</li>
-  )
+function NotificationItem({ type, html, value }) {
+  let li;
+
+  value
+    ? (li = <li data-notification-type={type}>{value}</li>)
+    : (li = (
+        <li data-notification-type={type} dangerouslySetInnerHTML={html}></li>
+      ));
+
+  return li;
 }
 
-export default NotificationItems;
+export default NotificationItem;

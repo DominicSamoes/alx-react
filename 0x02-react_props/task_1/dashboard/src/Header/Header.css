@@ -1,6 +1,14 @@
-.App-header {
+.header {
   display: flex;
-  flex-direction: row;
+  color: #e0344a;
   align-items: center;
-  color: #e2374c;
+  border-bottom: thick solid #e0344a;
+}
+
+.header img {
+  width: 144px;
+}
+
+.header h1 {
+  margin: 0;
 }

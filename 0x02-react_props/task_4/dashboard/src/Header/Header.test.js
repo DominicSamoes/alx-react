@@ -2,16 +2,20 @@ import React from 'react';
 import { shallow } from 'enzyme';
 import Header from './Header';
 
-it('renders properly', () => {
+const wrapper = shallow(<Header />);
+
+it('renders without crashing', () => {
   shallow(<Header />);
 });
 
-it('checking renders', () => {
-  const wrapper = shallow(<Header />);
+it('renders header', () => {
+  expect(wrapper.find('header.header').exists()).toEqual(true);
+});
 
-  const img = wrapper.find('img');
-  const h1 = wrapper.find('h1');
+it('renders header', () => {
+  expect(wrapper.find('header.header h1').exists()).toEqual(true);
+});
 
-  expect(img.exists()).toBe(true);
-  expect(h1.exists()).toBe(true);
+it('renders header', () => {
+  expect(wrapper.find('header.header img').exists()).toEqual(true);
 });
