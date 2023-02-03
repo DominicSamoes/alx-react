@@ -6,6 +6,8 @@
 
 ### [0x02. React props](0x02-react_props)
 
+### [0x03. React component](0x03-React_component)
+
 ---
 
 ### Author
