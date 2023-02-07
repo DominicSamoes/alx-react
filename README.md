@@ -8,6 +8,8 @@
 
 ### [0x03. React component](0x03-React_component)
 
+### [0x04. React inline styling](0x04-React_inline_styling)
+
 ---
 
 ### Author
