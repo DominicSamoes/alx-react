@@ -15,4 +15,4 @@
 ---
 
 ### Author
-* **Dominic Samo** - (https://github.com/DominicSamoes)
+* **Dominic Samo** - (https://www.linkedin.com/in/dominic-samo-754014187/)

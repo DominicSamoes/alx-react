@@ -12,6 +12,8 @@
 
 ### [0x05. React state](0x05-react_state)
 
+### [0x06. React Immutable](0x06-React_Immutable)
+
 ---
 
 ### Author
