@@ -14,6 +14,8 @@
 
 ### [0x06. React Immutable](0x06-React_Immutable)
 
+### [0x07. React Redux action creator+normalizr](0x07-react_redux_action_creator_normalizr)
+
 ---
 
 ### Author
