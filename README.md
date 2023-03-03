@@ -16,6 +16,8 @@
 
 ### [0x07. React Redux action creator+normalizr](0x07-react_redux_action_creator_normalizr)
 
+### [0x08. React Redux reducer+selector](0x08-react_redux_reducer_selector)
+
 ---
 
 ### Author
