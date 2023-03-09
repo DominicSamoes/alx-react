@@ -18,6 +18,8 @@
 
 ### [0x08. React Redux reducer+selector](0x08-react_redux_reducer_selector)
 
+## [0x09. React Redux Connectors and Providers](0x09-react_redux_connectors_and_providers)
+
 ---
 
 ### Author
